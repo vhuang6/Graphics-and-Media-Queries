@@ -1,0 +1,21 @@
+body{
+
+background: lightcoral url("https://bit.ly/3h2VSOf") no-repeat top right fixed;
+
+height:1500px;
+
+}
+
+@media only screen and (min-width: 600px ) { 
+
+  body { 
+		background-color: olive;
+		color: navy;
+   }
+
+  svg{
+    border:solid maroon 15px;
+    opacity:0.3;
+  }
+
+}
